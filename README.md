@@ -4,6 +4,7 @@ This repository serves as a collection of technical deep-dives into advanced Typ
 
 ## 📝 Technical Blog Posts
 1. The "any" Hole vs. The "unknown" Solution
+
 An exploration of why any is considered a type safety hole and how unknown enforces more resilient code.
 
 Key Concepts: Type safety, the "Top Type," and the mechanics of Type Narrowing to prevent runtime crashes.
@@ -11,6 +12,7 @@ Key Concepts: Type safety, the "Top Type," and the mechanics of Type Narrowing t
 Takeaway: If you don't know the data structure, let unknown and a type guard guide you.
 
 2. Slicing Types with Pick and Omit
+   
 A guide on maintaining a DRY (Don't Repeat Yourself) architecture using utility types to create specialized slices of a master interface.
 
 Pick: Surgical extraction of specific keys for UI components or small logic blocks.
