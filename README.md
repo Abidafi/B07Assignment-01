@@ -47,7 +47,7 @@ Formatting: Markdown
 Principles: OOP, DRY (Don't Repeat Yourself), Type Safety, and Functional Programming.
 
 ## How to Use
-Clone the repo: git clone https://github.com/your-username/repository-name.git
+Clone the repo
 
 Explore the Blog: Navigate to the .md files to read the technical articles.
 
