@@ -10,7 +10,7 @@ Key Concepts: Type safety, the "Top Type," and the mechanics of Type Narrowing t
 
 Takeaway: If you don't know the data structure, let unknown and a type guard guide you.
 
-## 2. Slicing Types with Pick and Omit
+2. Slicing Types with Pick and Omit
 A guide on maintaining a DRY (Don't Repeat Yourself) architecture using utility types to create specialized slices of a master interface.
 
 Pick: Surgical extraction of specific keys for UI components or small logic blocks.
